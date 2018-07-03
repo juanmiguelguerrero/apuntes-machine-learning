@@ -1,1 +1,6 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
 .ipynb_checkpoints
